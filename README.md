@@ -49,6 +49,7 @@
 - [Tuic V5性能提升及使用方法](https://www.v2ray-agent.com/archives/1687167522196)
 - [Cloudflare优选IP、自动选择最快节点教程](https://www.v2ray-agent.com/archives/1684858575649)
 - [脚本异常处理](https://www.v2ray-agent.com/archives/1684115970026)
+- 【脚本查看】(VASMA)
 
 # 三、线路推荐
 
